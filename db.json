@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Kulunchak",
+      "lastName": "Nurlan uulu",
+      "email": "jainaknurlanuulu@gmail.com",
+      "company": "Google",
+      "dob": "2023-12-04T18:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "experience": 2,
+      "package": 32,
+      "id": 4
+    },
+    {
+      "firstName": "Jainak",
+      "lastName": "Nurl",
+      "email": "jainak@gmail.com",
+      "company": "Google",
+      "dob": "2023-12-03T18:00:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "experience": 33,
+      "package": 34,
+      "id": 5
+    }
+  ]
+}
